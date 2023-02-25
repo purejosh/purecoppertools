@@ -1,0 +1,31 @@
+{
+  "_fv": 38,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "exposed_copper_axe",
+    "customModelName": "Normal",
+    "name": "Exposed Copper Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.9,
+    "enchantability": 18,
+    "damageVsEntity": 9.0,
+    "usageCount": 218,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

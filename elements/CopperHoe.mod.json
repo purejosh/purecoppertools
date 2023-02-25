@@ -1,0 +1,31 @@
+{
+  "_fv": 38,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "copper_hoe",
+    "customModelName": "Normal",
+    "name": "Copper Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 22,
+    "damageVsEntity": 2.0,
+    "usageCount": 184,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.COPPER_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

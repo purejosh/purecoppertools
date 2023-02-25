@@ -1,0 +1,37 @@
+{
+  "_fv": 38,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Adv Give Copper Recipes",
+    "achievementDescription": "Gives the player all copper recipes. ",
+    "achievementIcon": {
+      "value": "Blocks.COPPER_BLOCK"
+    },
+    "background": "Default",
+    "disableDisplay": true,
+    "showPopup": false,
+    "announceToChat": false,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "CraftingCopperSword",
+      "CraftingCopperShovel",
+      "CraftingCopperPickaxe",
+      "CraftingCopperAxe",
+      "CraftingCopperHoe",
+      "CraftingCopperHelmet",
+      "CraftingCopperChestplate",
+      "CraftingCopperLeggings",
+      "CraftingCopperBoots",
+      "CraftingCopperIngot",
+      "CraftingCopperNugget"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_in_inventory\" x=\"141\" y=\"55\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">64</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">Blocks.COPPER_BLOCK</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

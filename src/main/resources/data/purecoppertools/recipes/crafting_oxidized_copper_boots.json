@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "purecoppertools:oxidized_copper_ingot"
+    },
+    "2": {
+      "item": "purecoppertools:oxidized_copper_ingot"
+    },
+    "3": {
+      "item": "purecoppertools:oxidized_copper_ingot"
+    },
+    "5": {
+      "item": "purecoppertools:oxidized_copper_ingot"
+    }
+  },
+  "result": {
+    "item": "purecoppertools:oxidized_copper_boots",
+    "count": 1
+  }
+}

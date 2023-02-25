@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "adv_give_oxidized_copper_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oxidized_copper"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "purecoppertools:crafting_oxidized_copper_axe",
+      "purecoppertools:crafting_oxidized_copper_block",
+      "purecoppertools:crafting_oxidized_copper_boots",
+      "purecoppertools:crafting_oxidized_copper_chestplate",
+      "purecoppertools:crafting_oxidized_copper_helmet",
+      "purecoppertools:crafting_oxidized_copper_hoe",
+      "purecoppertools:crafting_oxidized_copper_ingot",
+      "purecoppertools:crafting_oxidized_copper_ingots",
+      "purecoppertools:crafting_oxidized_copper_leggings",
+      "purecoppertools:crafting_oxidized_copper_nugget",
+      "purecoppertools:crafting_oxidized_copper_pickaxe",
+      "purecoppertools:crafting_oxidized_copper_shovel",
+      "purecoppertools:crafting_oxidized_copper_sword"
+    ]
+  }
+}

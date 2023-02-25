@@ -1,0 +1,46 @@
+{
+  "_fv": 38,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      },
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.EXPOSED_COPPER"
+    },
+    "name": "crafting_exposed_copper_block",
+    "namespace": "mod"
+  }
+}

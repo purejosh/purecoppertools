@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "purecoppertools:oxidized_copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "purecoppertools:oxidized_copper_nugget",
+    "count": 9
+  }
+}

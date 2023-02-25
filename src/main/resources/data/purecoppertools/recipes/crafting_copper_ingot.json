@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "1": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "2": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "3": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "4": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "5": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "6": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "7": {
+      "item": "purecoppertools:copper_nugget"
+    },
+    "8": {
+      "item": "purecoppertools:copper_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 1
+  }
+}

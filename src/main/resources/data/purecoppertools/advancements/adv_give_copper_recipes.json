@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "adv_give_copper_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_block"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "purecoppertools:crafting_copper_sword",
+      "purecoppertools:crafting_copper_shovel",
+      "purecoppertools:crafting_copper_pickaxe",
+      "purecoppertools:crafting_copper_axe",
+      "purecoppertools:crafting_copper_hoe",
+      "purecoppertools:crafting_copper_helmet",
+      "purecoppertools:crafting_copper_chestplate",
+      "purecoppertools:crafting_copper_leggings",
+      "purecoppertools:crafting_copper_boots",
+      "purecoppertools:crafting_copper_ingot",
+      "purecoppertools:crafting_copper_nugget"
+    ]
+  }
+}

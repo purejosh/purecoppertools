@@ -1,0 +1,31 @@
+{
+  "_fv": 38,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "oxidized_copper_pickaxe",
+    "customModelName": "Normal",
+    "name": "Oxidized Copper Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 304,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:OxidizedCopperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

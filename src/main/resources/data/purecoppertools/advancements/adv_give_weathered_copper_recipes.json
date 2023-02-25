@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "adv_give_weathered_copper_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:weathered_copper"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "purecoppertools:crafting_weathered_copper_axe",
+      "purecoppertools:crafting_weathered_copper_boots",
+      "purecoppertools:crafting_weathered_copper_chestplate",
+      "purecoppertools:crafting_weathered_copper_helmet",
+      "purecoppertools:crafting_weathered_copper_hoe",
+      "purecoppertools:crafting_weathered_copper_ingot",
+      "purecoppertools:crafting_weathered_copper_leggings",
+      "purecoppertools:crafting_weathered_copper_nugget",
+      "purecoppertools:crafting_weathered_copper_pickaxe",
+      "purecoppertools:crafting_weathered_copper_shovel",
+      "purecoppertools:crafting_weathered_copper_sword",
+      "purecoppertools:crafting_weathered_copper_ingots",
+      "purecoppertools:crafting_weathered_copper_block"
+    ]
+  }
+}

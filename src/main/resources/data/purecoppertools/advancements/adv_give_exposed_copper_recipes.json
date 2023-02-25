@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "adv_give_exposed_copper_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:exposed_copper"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "purecoppertools:crafting_exposed_copper_nugget",
+      "purecoppertools:crafting_exposed_copper_ingot",
+      "purecoppertools:crafting_exposed_copper_boots",
+      "purecoppertools:crafting_exposed_copper_leggings",
+      "purecoppertools:crafting_exposed_copper_chestplate",
+      "purecoppertools:crafting_exposed_copper_helmet",
+      "purecoppertools:crafting_exposed_copper_hoe",
+      "purecoppertools:crafting_exposed_copper_axe",
+      "purecoppertools:crafting_exposed_copper_pickaxe",
+      "purecoppertools:crafting_exposed_copper_shovel",
+      "purecoppertools:crafting_exposed_copper_sword",
+      "purecoppertools:crafting_exposed_copper_ingots",
+      "purecoppertools:crafting_exposed_copper_block"
+    ]
+  }
+}

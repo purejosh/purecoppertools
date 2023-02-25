@@ -1,0 +1,20 @@
+{
+  "_fv": 38,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:OxidizedCopper.helmet"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:OxidizedCopperNugget"
+    },
+    "name": "blasting_oxidized_copper_helmet",
+    "namespace": "mod"
+  }
+}

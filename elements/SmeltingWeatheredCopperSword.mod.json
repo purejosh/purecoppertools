@@ -1,0 +1,20 @@
+{
+  "_fv": 38,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:WeatheredCopperSword"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:WeatheredCopperNugget"
+    },
+    "name": "smelting_weathered_copper_sword",
+    "namespace": "mod"
+  }
+}

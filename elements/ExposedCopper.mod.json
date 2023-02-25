@@ -1,0 +1,62 @@
+{
+  "_fv": 38,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "exposed_copper_helmet",
+    "enableBody": true,
+    "textureBody": "exposed_copper_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "exposed_copper_leggings",
+    "enableBoots": true,
+    "textureBoots": "exposed_copper_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "exposed_copper",
+    "helmetName": "Exposed Copper Helmet",
+    "bodyName": "Exposed Copper Chestplate",
+    "leggingsName": "Exposed Copper Leggings",
+    "bootsName": "Exposed Copper Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 13,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 20,
+    "toughness": 0.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      }
+    ]
+  }
+}

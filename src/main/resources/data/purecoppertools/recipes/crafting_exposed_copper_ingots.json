@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_copper"
+    }
+  ],
+  "result": {
+    "item": "purecoppertools:exposed_copper_ingot",
+    "count": 9
+  }
+}

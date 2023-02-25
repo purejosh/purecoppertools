@@ -1,0 +1,31 @@
+{
+  "_fv": 38,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "exposed_copper_hoe",
+    "customModelName": "Normal",
+    "name": "Exposed Copper Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 18,
+    "damageVsEntity": 2.0,
+    "usageCount": 218,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ExposedCopperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

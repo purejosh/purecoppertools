@@ -1,0 +1,20 @@
+{
+  "_fv": 38,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:CopperHoe"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:CopperNugget"
+    },
+    "name": "blasting_copper_hoe",
+    "namespace": "mod"
+  }
+}

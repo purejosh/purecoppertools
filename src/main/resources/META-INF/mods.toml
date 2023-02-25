@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Custom license"
+
+[[mods]]
+modId="purelycoppertools"
+version="1.0.0"
+displayName="Purely Copper Tools"
+credits="Made by purejosh"
+displayURL="https://mcreator.net"
+authors="purejosh"
+
+[[dependencies.purelycoppertools]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

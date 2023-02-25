@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 0.1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "purecoppertools:exposed_copper_helmet"
+  },
+  "result": "purecoppertools:exposed_copper_nugget"
+}

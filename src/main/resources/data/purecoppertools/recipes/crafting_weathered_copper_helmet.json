@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "purecoppertools:weathered_copper_ingot"
+    },
+    "1": {
+      "item": "purecoppertools:weathered_copper_ingot"
+    },
+    "2": {
+      "item": "purecoppertools:weathered_copper_ingot"
+    },
+    "3": {
+      "item": "purecoppertools:weathered_copper_ingot"
+    },
+    "5": {
+      "item": "purecoppertools:weathered_copper_ingot"
+    }
+  },
+  "result": {
+    "item": "purecoppertools:weathered_copper_helmet",
+    "count": 1
+  }
+}
