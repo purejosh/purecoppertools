@@ -8,9 +8,7 @@
 		"###"
 	],
 	"key": {
-		"#": {
-			"item": "purecoppertools:exposed_copper_nugget"
-		}
+		"#": "purecoppertools:exposed_copper_nugget"
 	},
 	"result": {
 		"id": "purecoppertools:exposed_copper_ingot",

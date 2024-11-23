@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {
-      "item": "purecoppertools:exposed_copper_ingot"
-    }
+    "#": "purecoppertools:exposed_copper_ingot"
   },
   "pattern": [
     "###",

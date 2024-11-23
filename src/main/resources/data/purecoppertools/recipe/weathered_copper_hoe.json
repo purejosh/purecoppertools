@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "item": "purecoppertools:weathered_copper_ingot"
-    }
+    "#": "minecraft:stick",
+    "X": "purecoppertools:weathered_copper_ingot"
   },
   "pattern": [
     "XX",

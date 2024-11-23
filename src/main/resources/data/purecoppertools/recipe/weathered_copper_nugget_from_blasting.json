@@ -2,36 +2,16 @@
   "type": "minecraft:blasting",
   "category": "misc",
   "ingredient": [
-    {
-      "item": "purecoppertools:weathered_copper_shovel"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_pickaxe"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_axe"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_hoe"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_sword"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_helmet"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_chestplate"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_leggings"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_boots"
-    },
-    {
-      "item": "purecoppertools:weathered_copper_horse_armor"
-    }
+    "purecoppertools:weathered_copper_shovel",
+    "purecoppertools:weathered_copper_pickaxe",
+    "purecoppertools:weathered_copper_axe",
+    "purecoppertools:weathered_copper_hoe",
+    "purecoppertools:weathered_copper_sword",
+    "purecoppertools:weathered_copper_helmet",
+    "purecoppertools:weathered_copper_chestplate",
+    "purecoppertools:weathered_copper_leggings",
+    "purecoppertools:weathered_copper_boots",
+    "purecoppertools:weathered_copper_horse_armor"
   ],
   "result": {
     "id": "purecoppertools:weathered_copper_nugget"

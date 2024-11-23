@@ -2,36 +2,16 @@
   "type": "minecraft:smelting",
   "category": "misc",
   "ingredient": [
-    {
-      "item": "purecoppertools:exposed_copper_shovel"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_pickaxe"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_axe"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_hoe"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_sword"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_helmet"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_chestplate"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_leggings"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_boots"
-    },
-    {
-      "item": "purecoppertools:exposed_copper_horse_armor"
-    }
+    "purecoppertools:exposed_copper_shovel",
+    "purecoppertools:exposed_copper_pickaxe",
+    "purecoppertools:exposed_copper_axe",
+    "purecoppertools:exposed_copper_hoe",
+    "purecoppertools:exposed_copper_sword",
+    "purecoppertools:exposed_copper_helmet",
+    "purecoppertools:exposed_copper_chestplate",
+    "purecoppertools:exposed_copper_leggings",
+    "purecoppertools:exposed_copper_boots",
+    "purecoppertools:exposed_copper_horse_armor"
   ],
   "result": {
     "id": "purecoppertools:exposed_copper_nugget"

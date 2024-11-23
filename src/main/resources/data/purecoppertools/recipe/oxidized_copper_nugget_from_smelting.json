@@ -2,36 +2,16 @@
   "type": "minecraft:smelting",
   "category": "misc",
   "ingredient": [
-    {
-      "item": "purecoppertools:oxidized_copper_shovel"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_pickaxe"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_axe"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_hoe"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_sword"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_helmet"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_chestplate"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_leggings"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_boots"
-    },
-    {
-      "item": "purecoppertools:oxidized_copper_horse_armor"
-    }
+      "purecoppertools:oxidized_copper_shovel",
+      "purecoppertools:oxidized_copper_pickaxe",
+      "purecoppertools:oxidized_copper_axe",
+      "purecoppertools:oxidized_copper_hoe",
+      "purecoppertools:oxidized_copper_sword",
+      "purecoppertools:oxidized_copper_helmet",
+      "purecoppertools:oxidized_copper_chestplate",
+      "purecoppertools:oxidized_copper_leggings",
+      "purecoppertools:oxidized_copper_boots",
+      "purecoppertools:oxidized_copper_horse_armor"
   ],
   "result": {
     "id": "purecoppertools:oxidized_copper_nugget"

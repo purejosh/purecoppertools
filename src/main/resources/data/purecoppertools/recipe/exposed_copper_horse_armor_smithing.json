@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
   "category": "misc",
-  "template": {
-    "item": "purecoppertools:exposed_copper_upgrade_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:leather_horse_armor"
-  },
-  "addition": {
-    "item": "purecoppertools:exposed_copper_ingot"
-  },
+  "template": "purecoppertools:exposed_copper_upgrade_smithing_template",
+  "base": "minecraft:leather_horse_armor",
+  "addition": "purecoppertools:exposed_copper_ingot",
   "result": {
     "id": "purecoppertools:exposed_copper_horse_armor",
     "count": 1

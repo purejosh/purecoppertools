@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "purecoppertools:weathered_copper_ingot"
-    },
-    "S": {
-      "item": "minecraft:leather"
-    }
+    "#": "purecoppertools:weathered_copper_ingot",
+    "S": "minecraft:leather"
   },
   "result": {
     "id": "purecoppertools:weathered_copper_upgrade_smithing_template",

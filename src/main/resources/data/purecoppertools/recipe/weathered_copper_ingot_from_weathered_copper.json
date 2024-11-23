@@ -3,9 +3,7 @@
 	"category": "misc",
 	"group": "weathered_copper_ingot",
 	"ingredients": [
-		{
-			"item": "minecraft:weathered_copper"
-		}
+		"minecraft:weathered_copper"
 	],
 	"result": {
 		"id": "purecoppertools:weathered_copper_ingot",

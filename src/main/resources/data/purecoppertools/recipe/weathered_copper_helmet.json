@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "purecoppertools:weathered_copper_ingot"
-    }
+    "X": "purecoppertools:weathered_copper_ingot"
   },
   "pattern": [
     "XXX",

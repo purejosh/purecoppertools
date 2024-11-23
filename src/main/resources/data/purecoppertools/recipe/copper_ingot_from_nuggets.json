@@ -8,9 +8,7 @@
 		"###"
 	],
 	"key": {
-		"#": {
-			"item": "purecoppertools:copper_nugget"
-		}
+		"#": "purecoppertools:copper_nugget"
 	},
 	"result": {
 		"id": "minecraft:copper_ingot",

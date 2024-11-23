@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "purecoppertools:exposed_copper_ingot"
-    }
+    "X": "purecoppertools:exposed_copper_ingot"
   },
   "pattern": [
     "X X",

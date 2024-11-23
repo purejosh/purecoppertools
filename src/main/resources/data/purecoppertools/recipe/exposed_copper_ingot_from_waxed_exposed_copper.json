@@ -3,9 +3,7 @@
 	"category": "misc",
 	"group": "exposed_copper_ingot",
 	"ingredients": [
-		{
-			"item": "minecraft:waxed_exposed_copper"
-		}
+		"minecraft:waxed_exposed_copper"
 	],
 	"result": {
 		"id": "purecoppertools:exposed_copper_ingot",

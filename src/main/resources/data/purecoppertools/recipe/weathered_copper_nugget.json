@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "purecoppertools:weathered_copper_ingot"
-    }
+    "purecoppertools:weathered_copper_ingot"
   ],
   "result": {
     "count": 9,
